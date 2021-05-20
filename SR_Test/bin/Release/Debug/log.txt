@@ -1,0 +1,79 @@
+[2017.07.29 20:11:21] Launched version: 1001018, alpha: [FALSE], beta: 0, debug mode: [FALSE], test dc: [FALSE]
+[2017.07.29 20:11:21] Executable dir: C:/Users/kac44/AppData/Roaming/Telegram Desktop/, name: Telegram.exe
+[2017.07.29 20:11:21] Initial working dir: C:/Users/kac44/Desktop/Adun/WindowsFormsApp1/새 폴더/SR_Test/bin/Debug/
+[2017.07.29 20:11:21] Working dir: C:/Users/kac44/Desktop/Adun/WindowsFormsApp1/새 폴더/SR_Test/bin/Debug/
+[2017.07.29 20:11:21] Arguments: "C:\Users\kac44\AppData\Roaming\Telegram Desktop\Telegram.exe" "-noupdate"
+[2017.07.29 20:11:21] Logs started
+[2017.07.29 20:11:21] Connecting local socket to Global\b3e0d12e4b2697edb089836335491d93-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2017.07.29 20:11:21] This is the only instance of Telegram, starting server and app...
+[2017.07.29 20:11:21] Moved logging from 'log_start0.txt' to 'C:/Users/kac44/Desktop/Adun/WindowsFormsApp1/새 폴더/SR_Test/bin/Debug/log.txt'!
+[2017.07.29 20:11:22] App Info: reading settings...
+[2017.07.29 20:11:22] App Info: reading encrypted settings...
+[2017.07.29 20:11:22] Lang Info: Loaded cached, keys: 0
+[2017.07.29 20:11:22] OpenAL Logging Level: (not set)
+[2017.07.29 20:11:22] Audio Playback Devices: OpenAL Soft
+[2017.07.29 20:11:22] Audio Playback Default Device: OpenAL Soft
+[2017.07.29 20:11:22] Audio Capture Devices: OpenAL Soft on 留덉씠Realtek High Definition Audio);OpenAL Soft on ㅽ뀒덉삤 誘뱀뒪(Realtek High Definition Audio)
+[2017.07.29 20:11:22] Audio Capture Default Device: OpenAL Soft on 留덉씠Realtek High Definition Audio)
+[2017.07.29 20:11:22] App Info: reading map...
+[2017.07.29 20:11:22] App Info: reading encrypted map...
+[2017.07.29 20:11:22] App Info: could not read encrypted user settings...
+[2017.07.29 20:11:22] App Info: writing encrypted user settings...
+[2017.07.29 20:11:22] App Info: reading encrypted mtp data...
+[2017.07.29 20:11:22] MTP Info: read keys, current: 4, to destroy: 0
+[2017.07.29 20:11:22] Map read time: 3
+[2017.07.29 20:11:22] Window Shadow: 1, 1, 3, 4, 6, 9, 13, 18, 24, 31, 38, 46
+[2017.07.29 20:11:24] Lang Error: Unknown key 'lng_channel_admin_sure'
+[2017.07.29 20:11:24] Lang Error: Unknown key 'lng_context_remove_admin'
+[2017.07.29 20:11:24] Lang Error: Unknown key 'lng_rights_chat_banned_until'
+[2017.07.29 20:11:24] Audio Info: recreating audio device and reattaching the tracks
+[2017.07.29 20:11:26] Audio Info: Closing audio playback device.
+[2017.07.29 20:23:25] Audio Info: recreating audio device and reattaching the tracks
+[2017.07.29 20:23:27] Audio Info: Closing audio playback device.
+[2017.07.29 20:23:48] Skipping message, because it is already in blocks!
+[2017.07.29 20:23:49] Skipping message, because it is already in blocks!
+[2017.07.29 20:23:51] Skipping message, because it is already in blocks!
+[2017.07.29 23:47:46] TCP Error: network - Unable to write
+[2017.07.29 23:48:00] Skipping message, because it is already in blocks!
+[2017.07.30 00:53:02] Skipping message, because it is already in blocks!
+[2017.07.30 02:02:30] TCP Error: network - Host unreachable
+[2017.07.30 02:02:30] TCP Error: network - Host unreachable
+[2017.07.30 02:02:30] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] TCP Error: network - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:31] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:32] TCP Error: network - Host unreachable
+[2017.07.30 02:02:32] TCP Error: network - Host unreachable
+[2017.07.30 02:02:32] TCP Error: network - Host unreachable
+[2017.07.30 02:02:32] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:32] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 02:02:32] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:14] TCP Error: network - Host unreachable
+[2017.07.30 11:19:14] TCP Error: network - Host unreachable
+[2017.07.30 11:19:14] TCP Error: network - Host unreachable
+[2017.07.30 11:19:14] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:14] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:14] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:15] App Error: could not get current version (update check): 3
+[2017.07.30 11:19:18] TCP Error: network - Host unreachable
+[2017.07.30 11:19:18] TCP Error: network - Host unreachable
+[2017.07.30 11:19:18] TCP Error: network - Host unreachable
+[2017.07.30 11:19:18] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:18] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:18] HTTP Error: network error 99 - Host unreachable
+[2017.07.30 11:19:26] Audio Info: OnDeviceStateChanged("{0.0.0.00000000}.{1b478df5-c94e-479c-95bf-ed54134ae2ea}", 4) scheduling detach from audio device.
+[2017.07.30 11:37:08] Skipping message, because it is already in blocks!
+[2017.07.30 11:37:25] Skipping message, because it is already in blocks!
+[2017.07.30 11:37:29] Skipping message, because it is already in blocks!

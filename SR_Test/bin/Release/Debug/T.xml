@@ -1,0 +1,34 @@
+﻿<grammar version="1.0" sapi:alphabet="x-microsoft-ups" xml:lang="ko-KR" root="Command"
+         tag-format="semantics-ms/1.0" xmlns="http://www.w3.org/2001/06/grammar"
+         xmlns:sapi="http://schemas.microsoft.com/Speech/2002/06/SRGSExtensions">
+  <rule id="Command" scope="public">
+    <one-of>
+      <item>컴퓨터</item>
+      <item>종료</item>
+	  <item>셧다운</item>
+      <item>개드립</item>
+      <item>네이버</item>
+      <item>구글</item>
+      <item>엘엠에스</item>
+      <item>케이피유</item>
+      <item>유튜브</item>
+	  <item>한글</item>
+	  <item>한글종료</item>
+	  <item>엑셀</item>
+	  <item>피피티</item>
+	  <item>파워포인트</item>
+	  <item>아래로</item>
+	  <item>위로</item>
+	  <item>위</item>
+	  <item>아래</item>
+	  <item>사이트</item>
+	  <item>추천해줘</item>
+	  <item>사이트추천해줘</item>
+	  <item>사이트빈도확인해줘</item>
+	  <item>사이트빈도</item>
+	  <item>확인해줘</item>
+	  
+	  
+    </one-of>
+  </rule>
+</grammar>
